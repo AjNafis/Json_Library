@@ -1,0 +1,49 @@
+[
+  {
+    id: 11,
+    data: "25/04/2022",
+    institution: "Algoma University",
+    account: "Visa AlgomaU",
+    merchant: "Algoma U",
+    amount: 100.20,
+    type: "debit", 
+    categoryId: 192, 
+    category: "Software", 
+    isPending: false, 
+    isTransfer: false, 
+    isExpense: true, 
+    isEdited: false
+  },
+  {
+    id: 12,
+    data: "13/07/2022",
+    institution: "BelairDirect",
+    account: "Preauthorized BelairDirect",
+    merchant: "BelairDirect",
+    amount: 100.20,
+    type: "debit", 
+    categoryId: 192, 
+    category: "Software", 
+    isPending: false, 
+    isTransfer: false, 
+    isExpense: true, 
+    isEdited: false
+  }, 
+  
+    {
+    id: 13,
+    data: "13/07/2022",
+    institution: "BelairDirect",
+    account: "Preauthorized BelairDirect",
+    merchant: "BelairDirect",
+    amount: 100.20,
+    type: "debit", 
+    categoryId: 192, 
+    category: "Software", 
+    isPending: false, 
+    isTransfer: false, 
+    isExpense: true, 
+    isEdited: false
+  }
+  
+]
